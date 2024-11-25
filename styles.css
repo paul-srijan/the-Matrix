@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: black;
+    color: lime;
+    font-family: monospace;
+}
+canvas {
+    display: block;
+}
+#customisation-panel {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    z-index: 10;
+}
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}

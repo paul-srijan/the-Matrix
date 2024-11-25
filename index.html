@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Rain Matrix Effect</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="customisation-panel">
+        <label>Characters:
+            <input id="characters" type="text" value="0123456789ABCDEF">
+        </label>
+        <label>Speed (1-100):
+            <input id="speed" type="number" value="50" min="1" max="100">
+        </label>
+        <label>Color:
+            <input id="color" type="color" value="#00ff00">
+        </label>
+    </div>
+    <canvas id="matrix-canvas"></canvas>
+    <script src="script.js"></script>
+
+</body>
+</html>
