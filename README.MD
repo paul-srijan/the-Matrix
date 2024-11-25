@@ -89,15 +89,9 @@ Contributions are welcome! If you'd like to enhance the project or fix any issue
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your GitHub Profile](https://github.com/paul-srijan)
+- **Your Name**: [Srijan Paul](https://github.com/paul-srijan)
 - **Email**: iampaulsrijan@gmail.com
